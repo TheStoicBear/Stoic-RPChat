@@ -1,3 +1,7 @@
+# For Andy from NDFrammework
+# I did not make, I do not claim rights and it's Open Source.
+
+
 # Stoic-RPChat
 NDCore 2.0 Simple RPChat. 
 
